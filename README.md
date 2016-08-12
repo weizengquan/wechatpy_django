@@ -3,6 +3,10 @@
 一个用wechatpy包与微信平台接口进行交互的基于Django的平台。
 A Django based  project communicating with Wechat platform by using wechatpy package.
 
+## Introduction(介绍)
+It's a backend system communicating with Wechat platform.
+It uses django as framework and use wechatpy package which encapsulates the Wechat API.
+
 ## Installation(安装说明)
 1  clone the project source codes into your own folder
 
