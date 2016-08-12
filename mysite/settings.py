@@ -120,3 +120,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
+# user defined settings, usually including some sensitive information, this should not be included
+# in version control.
+from settings_secret import *
